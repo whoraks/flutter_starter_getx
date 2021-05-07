@@ -1,4 +1,4 @@
-# flutter_mvp
+# flutter_starter_getx
 
 A new Flutter application.
 
